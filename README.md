@@ -1,7 +1,7 @@
 [![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)]
 <h1 align="center">Hi 👋, I'm Natnael Sisay</h1>
 <h3 align="center">A passionate Full stack developer</h3>
-<img align="right" alt="Coding" width="400" src=https://i.gifer.com/origin/fd/fdd2726c56e7d9cd95ad83bef3365f38_w200.webp">
+<!-- <img align="right" alt="Coding" width="400" src=https://i.gifer.com/origin/fd/fdd2726c56e7d9cd95ad83bef3365f38_w200.webp"> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natidever" alt="natidever" /></a> </p>
 
