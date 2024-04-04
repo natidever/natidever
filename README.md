@@ -1,3 +1,4 @@
+![linkedinBanner](https://github.com/natidever/natidever/assets/123303189/097086b0-e4c5-4828-b6af-38999e30d7be)
 
 <h1 align="center">Hi 👋, I'm Natnael Sisay</h1>
 <h3 align="center">A passionate Full stack developer</h3>
