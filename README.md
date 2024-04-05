@@ -4,7 +4,6 @@
 <h3 align="center">A Fullstack developer</h3>
 <!-- <img align="right" alt="Coding" width="400" src=https://i.gifer.com/origin/fd/fdd2726c56e7d9cd95ad83bef3365f38_w200.webp"> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natidever" alt="natidever" /></a> </p>
 
 - 🌼 Software products that add value to the **socity**
   
