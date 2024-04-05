@@ -1,5 +1,6 @@
 
-![githubanner](https://github.com/natidever/natidever/assets/123303189/639002bd-1d20-4d86-8e94-995aa07c83d2)
+![github banner](https://github.com/natidever/natidever/assets/123303189/f5c20b21-3736-478e-af9d-248899f322cc)
+
 
 <h1 align="center">Selam 👋, I'm Natnael Sisay</h1>
 <h3 align="center">A Fullstack developer</h3>
