@@ -6,7 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natidever" alt="natidever" /></a> </p>
 
-- 🇪🇹 Software product that add value to the **socity**
+- 🌼 Software products that add value to the **socity**
+  
 - 🌱 I’m currently learning **React,Typescript**
 
 - 💬 Ask me about **Flutter,Django**
