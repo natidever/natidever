@@ -5,6 +5,7 @@
 <!-- <img align="right" alt="Coding" width="400" src=https://i.gifer.com/origin/fd/fdd2726c56e7d9cd95ad83bef3365f38_w200.webp"> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natidever" alt="natidever" /></a> </p>
+- 🌼Software product that add value to the socity 
 
 - 🌱 I’m currently learning **React,Typescript**
 
@@ -12,7 +13,7 @@
 
 - 📫 How to reach me **natidev404@gmail.com**
   
-- 🌼Software product that add value to the socity 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
