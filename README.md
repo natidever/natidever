@@ -5,8 +5,8 @@
 <!-- <img align="right" alt="Coding" width="400" src=https://i.gifer.com/origin/fd/fdd2726c56e7d9cd95ad83bef3365f38_w200.webp"> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natidever" alt="natidever" /></a> </p>
-- 🌼Software product that add value to the socity 
 
+- 🇪🇹 Software product that add value to the **socity**
 - 🌱 I’m currently learning **React,Typescript**
 
 - 💬 Ask me about **Flutter,Django**
