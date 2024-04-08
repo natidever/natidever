@@ -17,7 +17,7 @@
   
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:[LinkedIn](https://www.linkedin.com/in/natnael-sisay-bb8846285/)
 <p align="left">
 </p>
 
