@@ -9,11 +9,12 @@
 
 - 🌼 Software products that add value to the **socity**
   
-- 🌱 I’m currently learning **React,Typescript**
+- 🌱 I’m currently learning **Typescript**
 
-- 💬 Ask me about **Flutter,Django**
+- 💬Your **Flutter** expert
 
 - 📫 How to reach me **natidev404@gmail.com**
+  
   
 
 
