@@ -6,12 +6,11 @@
 <h3 align="center">A Fullstack developer</h3>
 <!-- <img align="right" alt="Coding" width="400" src=https://i.gifer.com/origin/fd/fdd2726c56e7d9cd95ad83bef3365f38_w200.webp"> -->
 
+- 💬Your **Flutter** expert
 
 - 🌼 Software products that add value to the **socity**
   
 - 🌱 I’m currently learning **Typescript**
-
-- 💬Your **Flutter** expert
 
 - 📫 How to reach me **natidev404@gmail.com**
   
