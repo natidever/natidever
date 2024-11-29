@@ -10,7 +10,7 @@
 
 - 🌼 Software products that add value to the **socity**
   
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently building **Flutter Engine**
 
 - 📫 How to reach me **natidev404@gmail.com**
   
