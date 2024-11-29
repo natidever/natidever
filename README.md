@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Selam 👋, I'm Natnael Sisay</h1>
-<h3 align="center">A Fullstack developer</h3>
+<h3 align="center">A Mobile App Specialist</h3>
 <!-- <img align="right" alt="Coding" width="400" src=https://i.gifer.com/origin/fd/fdd2726c56e7d9cd95ad83bef3365f38_w200.webp"> -->
 
 - 💬Your **Flutter** expert
