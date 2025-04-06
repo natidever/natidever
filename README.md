@@ -3,14 +3,14 @@
 
 
 <h1 align="center">Selam 👋, I'm Natnael Sisay</h1>
-<h3 align="center">A Mobile App Specialist</h3>
+<h3 align="center"> Creative  Developer </h3>
 <!-- <img align="right" alt="Coding" width="400" src=https://i.gifer.com/origin/fd/fdd2726c56e7d9cd95ad83bef3365f38_w200.webp"> -->
 
-- 💬Your **Flutter** expert
+- 💬 **Software Engineer ** 
 
 - 🌼 Software products that add value to the **socity**
   
-- 🌱 I’m currently building **Flutter Engine**
+- 🌱 I’m currently learning **Rust**
 
 - 📫 How to reach me **natidev404@gmail.com**
   
